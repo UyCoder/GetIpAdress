@@ -18,7 +18,7 @@ To use this tool, you will need to have [Java](https://www.java.com/) installed 
 
 #### 3. Run the compiled `.class` file using the `java` command, and specify the URL that you want to scan as a command-line argument.
 
-`$ java GetIpAdress [url]`
+`$ java IPScanningTool [url]`
 
 
 #### 4. The tool will scan the specified URL for IP addresses, determine their location, and write the results to a text file saved on your desktop.
