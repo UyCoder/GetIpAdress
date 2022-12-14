@@ -13,7 +13,7 @@ To use this tool, you will need to have [Java](https://www.java.com/) installed 
 
 `   $ cd GetIpAdress`
 
-`   $ javac GetIpAdress.java`
+`   $ javac IPScanningTool.java`
 
 
 #### 3. Run the compiled `.class` file using the `java` command, and specify the URL that you want to scan as a command-line argument.
