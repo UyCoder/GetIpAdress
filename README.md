@@ -11,8 +11,9 @@ To use this tool, you will need to have [Java](https://www.java.com/) installed 
 `$ git clone https://github.com/UyCoder/GetIpAdress.git`
 #### 2. Navigate to the directory where you cloned the repository, and compile the `.java` file using the `javac` command.
 
-`   $ cd GetIpAdress
-   $ javac GetIpAdress.java`
+`   $ cd GetIpAdress`
+
+`   $ javac GetIpAdress.java`
 
 
 #### 3. Run the compiled `.class` file using the `java` command, and specify the URL that you want to scan as a command-line argument.
